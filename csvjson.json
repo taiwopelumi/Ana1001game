@@ -119,10 +119,10 @@
     "O3": 2,
     "story": "This is a good time and place to pray to your dad",
     "nav": "Press 1 to go to the Mess Hall, Press 2 to go to the Labyrinth and Press 3 to go to the North Woods",
-    "win": 0,
+    "win": 1,
     "lose": 0,
     "Nico": 0,
-    "god": 0,
+    "god": 1,
     "Chiron": 0
   },
   {
@@ -164,7 +164,7 @@
     "win": 0,
     "lose": 0,
     "Nico": 0,
-    "god": 1,
+    "god": 0,
     "Chiron": 0
   },
   {
@@ -178,7 +178,7 @@
     "win": 1,
     "lose": 0,
     "Nico": 0,
-    "god": 0,
+    "god": 1,
     "Chiron": 0
   },
   {
